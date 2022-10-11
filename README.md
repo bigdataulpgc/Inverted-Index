@@ -35,10 +35,10 @@ The minimum requirements for the execution of this project are:
 - Latest version of Python 3.10 (if applicable), in order to avoid execution conflicts.
 - Installation of libraries: stop-words and xmltodict
 ```
-pip install stop-words)
+pip install stop-words
 ```
 ```
-(pip install xmltodict)
+pip install xmltodict
 ```
 
 ## TECHNOLOGY USED:
