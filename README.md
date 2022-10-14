@@ -6,7 +6,7 @@ An inverted index is a way of structuring the information to be retrieved by a s
 
 The implementation creates the indexes from a list with the path of a series of books, so that it indicates for each word in which books it appears and in which lines of each book.
 
-You can learn about the project in depth at [LINK TO PAPER](https://github.com/Alvaroooooooo/Inverted-index/blob/main/Paper.pdf).
+You can learn about the project in depth at [LINK TO PAPER](https://github.com/bigdataulpgc/Inverted-Index/blob/main/Paper.pdf).
 
 ## DEVELOPERS:
 
