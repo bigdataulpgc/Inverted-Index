@@ -1,4 +1,4 @@
-# Inverted-index
+# Inverted-index-python
 
 This project is an implementation of an inverted index.
 
